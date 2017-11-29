@@ -8,7 +8,6 @@
 ## Recommanded Extensions
 
 [Bison & Yacc](https://marketplace.visualstudio.com/items?itemName=se2dev.vscode-yacc) 
-[]
 > 语法、词法解析
 
 [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash)

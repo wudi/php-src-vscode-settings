@@ -1,0 +1,20 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.associations": {
+        "functional": "cpp",
+        "*.ipp": "cpp",
+        "array": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "zend_ast.h": "c",
+        "zend.h": "c",
+        "zend_api.h": "c",
+        "zend_operators.h": "c",
+        "zend_strtod.h": "c",
+        "zend_language_parser.h": "c",
+        "php.h": "c",
+        "zend_execute.h": "c",
+        "*.l": "c",
+        "*.y": "c"
+    }
+}
